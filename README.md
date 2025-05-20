@@ -12,9 +12,10 @@ It allows you to showcase different phases like line art, modeling, and renderin
 
 ## How to Use?
 
-- Import the Work Process View HTML, CSS, and JS files into your project
-- Place your images and text areas following the template structure
-- Customize the text, image paths, and style variables as needed
+1. Import the Work Process View HTML, CSS, and JS files into your project
+2. Place your images and text areas following the template structure
+3. Customize the text, image paths, and style variables as needed
+4. For more details you can go to [HOW_TO_USE.md](https://github.com/menggekkd/work-process-view/blob/main/HOW_TO_USE.md)
 
 ## Recommended Use Cases?
 
@@ -26,7 +27,7 @@ It allows you to showcase different phases like line art, modeling, and renderin
 
 ## License
 
-This project is open-sourced under the MIT License. You are free to use, modify, and distribute it, but please retain the original author attribution and license statement.
+This project is open-sourced under the [MIT License](https://github.com/menggekkd/work-process-view/blob/main/LICENSE). You are free to use, modify, and distribute it, but please retain the original author attribution and license statement.
 
 ### Hope you enjoy using it!
 ### ( •̀ ω •́ )✧
@@ -50,6 +51,7 @@ Work Process View 是一个简洁直观的作品制作流程展示组件，适�
 1. 将 work-process-view 相关 HTML、CSS、JS 文件引入项目
 2. 按模板结构放置图片与文字区域
 3. 自定义配置文字、图像路径及样式变量
+4. 更多详情可以前往 [HOW_TO_USE.md](https://github.com/menggekkd/work-process-view/blob/main/HOW_TO_USE.md)
 
 ## 用在哪好呢？
 
@@ -61,7 +63,7 @@ Work Process View 是一个简洁直观的作品制作流程展示组件，适�
 
 ## 许可证
 
-本项目基于 MIT 许可证开源，您可以自由使用、修改、分发本项目，但请保留原作者署名和许可证声明。
+本项目基于 [MIT 许可证](https://github.com/menggekkd/work-process-view/blob/main/LICENSE) 开源，您可以自由使用、修改、分发本项目，但请保留原作者署名和许可证声明。
 
 ### 祝你用的开心!
 ### ( •̀ ω •́ )✧
