@@ -74,7 +74,7 @@ Work Process View 是一个简洁直观的作品制作流程展示组件，适�
 # Previews
 
 ![Image_1_EN](https://github.com/user-attachments/assets/133d9ac8-03ee-420b-a8b7-b73a59a1e221)
-![Image_2_EN](https://github.com/user-attachments/assets/9431fc88-0214-4143-a422-745e0b48aaac)
+![Image_2_EN](https://github.com/user-attachments/assets/570c91a9-5c3f-4a8c-a7ab-bdef7acfa7d5)
 ![Image_3_EN](https://github.com/user-attachments/assets/a581d958-75af-41e6-b0d4-5db56018ac6a)
 ![Image_4_EN](https://github.com/user-attachments/assets/2b170d50-5099-450a-87a9-625f92fd63c7)
 ![Image_5_EN](https://github.com/user-attachments/assets/2dd9762f-5b58-41c7-bcb8-d260d7d51d8f)
