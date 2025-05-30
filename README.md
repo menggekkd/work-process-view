@@ -42,7 +42,7 @@ Work Process View 是一个简洁直观的作品制作流程展示组件，适�
 
 它支持通过淡入淡出（Fade）方式，展示线稿、建模、渲染等不同阶段的图像与对应文字，方便观众清晰了解作品的创作过程。
 
-想试试看吗？可以在 [Codepen](https://codepen.io/menggekkd/pen/NPPVjom) 或者 [menggekkd.me/3dworks](https://menggekkd.me/3dworks) 去看看哦！
+想试试看吗？你可以在 [Codepen](https://codepen.io/menggekkd/pen/NPPVjom) 或者 [menggekkd.me/3dworks](https://menggekkd.me/3dworks) 去看看哦！
 
 ## 项目特色
 
