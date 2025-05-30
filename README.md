@@ -4,6 +4,8 @@ Work Process View is a clean and intuitive component for displaying creative pro
 
 It allows you to showcase different phases like line art, modeling, and rendering through smooth fade transitions between images and corresponding text, making it easy for viewers to understand the creative workflow.
 
+Wanna give it a try? You can check it out on [Codepen](https://codepen.io/menggekkd/pen/NPPVjom) or at [menggekkd.me/3dworks](https://menggekkd.me/3dworks)!
+
 ## Features
 
 - Multi-stage image comparison and switching
@@ -39,6 +41,8 @@ This project is open-sourced under the [MIT License](https://github.com/menggekk
 Work Process View 是一个简洁直观的作品制作流程展示组件，适用于插画、3D建模等多阶段视觉对比。
 
 它支持通过淡入淡出（Fade）方式，展示线稿、建模、渲染等不同阶段的图像与对应文字，方便观众清晰了解作品的创作过程。
+
+想试试看吗？可以在 [Codepen](https://codepen.io/menggekkd/pen/NPPVjom) 或者 [menggekkd.me/3dworks](https://menggekkd.me/3dworks) 去看看哦！
 
 ## 项目特色
 
